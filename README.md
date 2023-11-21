@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phongthikorn Thongard
 =============================================================================================================================================
 
-I am fullstack developer.
+I am Student (I'm interesting to be a full-stack developer).
 -------------------------
 
 I've been learning code since sixth grade because I want to use my computer to make my life easier, so that's how I got started.
